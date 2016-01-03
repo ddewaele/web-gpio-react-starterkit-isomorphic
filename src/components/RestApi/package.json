@@ -1,0 +1,6 @@
+{
+  "name": "RestApi",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RestApi.js"
+}

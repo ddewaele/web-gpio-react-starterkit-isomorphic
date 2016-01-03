@@ -1,0 +1,6 @@
+{
+  "name": "GpioDiv",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./GpioDiv.js"
+}

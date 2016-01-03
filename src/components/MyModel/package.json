@@ -1,0 +1,6 @@
+{
+  "name": "MyModel",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MyModel.js"
+}

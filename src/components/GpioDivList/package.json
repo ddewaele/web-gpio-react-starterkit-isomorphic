@@ -1,0 +1,6 @@
+{
+  "name": "GpioDivList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./GpioDivList.js"
+}

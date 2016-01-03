@@ -1,0 +1,6 @@
+{
+  "name": "BoardSelection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./BoardSelection.js"
+}
